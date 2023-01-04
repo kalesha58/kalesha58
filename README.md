@@ -4,7 +4,8 @@
 <h3 align="center">A passionate Full-stack Web Developer from India</h3>
 <h3 align="center">“A successful website does three things:
 It attracts the right kinds of visitors.
-Guides them to the main services or product you offer.
+Guides them to the main services or product you offers.
+  
 Collect Contact details for future ongoing relation.”</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -20,7 +21,7 @@ Collect Contact details for future ongoing relation.”</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kalesha-baig-ab44a0231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kalesha58/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalesha baig" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kalesha baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalesha baig" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
